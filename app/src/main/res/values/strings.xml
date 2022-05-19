@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">逃亡飛車</string>
+    <string name="game_start">開始遊戲</string>
+    <string name="setting">設定</string>
+    <string name="exit">離開遊戲</string>
+    <string name="tutorial">遊戲說明</string>
+    <string name="aboutus">關於我們</string>
+    <string name="player_image_description">玩家車輛</string>
+    <string name="obstacle_image1_description">障礙車輛1</string>
+    <string name="obstacle_image2_description">障礙車輛2</string>
+    <string name="obstacle_image3_description">障礙車輛3</string>
+    <string name="score">已存活 %.2f 秒</string>
+    <string name="life">生命值：%d </string>
+    <string name="key">鑰匙：%d </string>
+    <string name="alreadyItemed">已有道具效果，不可再套用</string>
+    <!--
+    <string name=""></string>
+    -->
+</resources>
